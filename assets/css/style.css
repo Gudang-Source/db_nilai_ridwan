@@ -1,0 +1,38 @@
+body{
+  font: 13pt 'trebuchet ms';
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.header{
+  background: black;
+  width: 100%;
+  height: auto;
+  float: right;
+}
+.btn-menu{
+  margin: 5px;
+  padding: 2px;
+}
+.content{
+  background: white;
+  width: 100%;
+  height: auto;
+  float: left;
+}
+.content-font{
+  padding: 20px;
+  margin-bottom: 50px;
+}
+.footer{
+  background: black;
+  width: 100%;
+  height: auto;
+  color: white;
+  float: left;
+}.btn-group {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 12px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */ /* Float the buttons side by side */
+}
